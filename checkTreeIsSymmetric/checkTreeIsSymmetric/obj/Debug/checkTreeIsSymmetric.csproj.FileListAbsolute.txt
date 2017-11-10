@@ -1,0 +1,1 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\checkTreeIsSymmetric\checkTreeIsSymmetric\bin\Debug\checkTreeIsSymmetric.exe.config
