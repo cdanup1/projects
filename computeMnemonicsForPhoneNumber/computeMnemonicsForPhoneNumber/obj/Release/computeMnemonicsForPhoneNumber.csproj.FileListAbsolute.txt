@@ -1,0 +1,6 @@
+c:\users\anup\documents\visual studio 2013\Projects\computeMnemonicsForPhoneNumber\computeMnemonicsForPhoneNumber\bin\Release\computeMnemonicsForPhoneNumber.exe.config
+c:\users\anup\documents\visual studio 2013\Projects\computeMnemonicsForPhoneNumber\computeMnemonicsForPhoneNumber\bin\Release\computeMnemonicsForPhoneNumber.exe
+c:\users\anup\documents\visual studio 2013\Projects\computeMnemonicsForPhoneNumber\computeMnemonicsForPhoneNumber\bin\Release\computeMnemonicsForPhoneNumber.pdb
+c:\users\anup\documents\visual studio 2013\Projects\computeMnemonicsForPhoneNumber\computeMnemonicsForPhoneNumber\obj\Release\computeMnemonicsForPhoneNumber.csprojResolveAssemblyReference.cache
+c:\users\anup\documents\visual studio 2013\Projects\computeMnemonicsForPhoneNumber\computeMnemonicsForPhoneNumber\obj\Release\computeMnemonicsForPhoneNumber.exe
+c:\users\anup\documents\visual studio 2013\Projects\computeMnemonicsForPhoneNumber\computeMnemonicsForPhoneNumber\obj\Release\computeMnemonicsForPhoneNumber.pdb

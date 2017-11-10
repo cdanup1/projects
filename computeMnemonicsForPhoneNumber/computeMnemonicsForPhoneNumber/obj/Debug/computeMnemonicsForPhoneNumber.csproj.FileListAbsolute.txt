@@ -1,0 +1,1 @@
+c:\users\anup\documents\visual studio 2013\Projects\computeMnemonicsForPhoneNumber\computeMnemonicsForPhoneNumber\bin\Debug\computeMnemonicsForPhoneNumber.exe.config

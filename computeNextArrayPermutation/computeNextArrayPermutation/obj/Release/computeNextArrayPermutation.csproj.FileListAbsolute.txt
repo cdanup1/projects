@@ -1,0 +1,6 @@
+c:\users\anup\documents\visual studio 2013\Projects\computeNextArrayPermutation\computeNextArrayPermutation\bin\Release\computeNextArrayPermutation.exe.config
+c:\users\anup\documents\visual studio 2013\Projects\computeNextArrayPermutation\computeNextArrayPermutation\bin\Release\computeNextArrayPermutation.exe
+c:\users\anup\documents\visual studio 2013\Projects\computeNextArrayPermutation\computeNextArrayPermutation\bin\Release\computeNextArrayPermutation.pdb
+c:\users\anup\documents\visual studio 2013\Projects\computeNextArrayPermutation\computeNextArrayPermutation\obj\Release\computeNextArrayPermutation.csprojResolveAssemblyReference.cache
+c:\users\anup\documents\visual studio 2013\Projects\computeNextArrayPermutation\computeNextArrayPermutation\obj\Release\computeNextArrayPermutation.exe
+c:\users\anup\documents\visual studio 2013\Projects\computeNextArrayPermutation\computeNextArrayPermutation\obj\Release\computeNextArrayPermutation.pdb
