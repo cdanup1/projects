@@ -1,0 +1,6 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeBuildingsWithSunsetView-Stack\computeBuildingsWithSunsetView-Stack\bin\Release\computeBuildingsWithSunsetView-Stack.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeBuildingsWithSunsetView-Stack\computeBuildingsWithSunsetView-Stack\bin\Release\computeBuildingsWithSunsetView-Stack.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeBuildingsWithSunsetView-Stack\computeBuildingsWithSunsetView-Stack\bin\Release\computeBuildingsWithSunsetView-Stack.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeBuildingsWithSunsetView-Stack\computeBuildingsWithSunsetView-Stack\obj\Release\computeBuildingsWithSunsetView-Stack.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeBuildingsWithSunsetView-Stack\computeBuildingsWithSunsetView-Stack\obj\Release\computeBuildingsWithSunsetView-Stack.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeBuildingsWithSunsetView-Stack\computeBuildingsWithSunsetView-Stack\obj\Release\computeBuildingsWithSunsetView-Stack.pdb

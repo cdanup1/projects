@@ -1,0 +1,6 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeExteriorOfBinTree\computeExteriorOfBinTree\bin\Release\computeExteriorOfBinTree.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeExteriorOfBinTree\computeExteriorOfBinTree\bin\Release\computeExteriorOfBinTree.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeExteriorOfBinTree\computeExteriorOfBinTree\bin\Release\computeExteriorOfBinTree.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeExteriorOfBinTree\computeExteriorOfBinTree\obj\Release\computeExteriorOfBinTree.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeExteriorOfBinTree\computeExteriorOfBinTree\obj\Release\computeExteriorOfBinTree.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeExteriorOfBinTree\computeExteriorOfBinTree\obj\Release\computeExteriorOfBinTree.pdb
