@@ -1,0 +1,6 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\buySellStockTwice\buySellStockTwice\bin\Release\buySellStockTwice.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\buySellStockTwice\buySellStockTwice\bin\Release\buySellStockTwice.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\buySellStockTwice\buySellStockTwice\bin\Release\buySellStockTwice.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\buySellStockTwice\buySellStockTwice\obj\Release\buySellStockTwice.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\buySellStockTwice\buySellStockTwice\obj\Release\buySellStockTwice.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\buySellStockTwice\buySellStockTwice\obj\Release\buySellStockTwice.pdb
