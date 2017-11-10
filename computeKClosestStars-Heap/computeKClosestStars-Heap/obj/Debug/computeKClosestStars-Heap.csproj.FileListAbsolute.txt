@@ -1,0 +1,1 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKClosestStars-Heap\computeKClosestStars-Heap\bin\Debug\computeKClosestStars-Heap.exe.config

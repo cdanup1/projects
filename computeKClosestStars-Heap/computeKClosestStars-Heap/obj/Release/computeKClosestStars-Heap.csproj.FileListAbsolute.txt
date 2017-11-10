@@ -1,0 +1,6 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKClosestStars-Heap\computeKClosestStars-Heap\bin\Release\computeKClosestStars-Heap.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKClosestStars-Heap\computeKClosestStars-Heap\bin\Release\computeKClosestStars-Heap.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKClosestStars-Heap\computeKClosestStars-Heap\bin\Release\computeKClosestStars-Heap.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKClosestStars-Heap\computeKClosestStars-Heap\obj\Release\computeKClosestStars-Heap.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKClosestStars-Heap\computeKClosestStars-Heap\obj\Release\computeKClosestStars-Heap.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKClosestStars-Heap\computeKClosestStars-Heap\obj\Release\computeKClosestStars-Heap.pdb
