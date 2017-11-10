@@ -1,0 +1,6 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKthNodeInOrderTraversal\computeKthNodeInOrderTraversal\bin\Release\computeKthNodeInOrderTraversal.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKthNodeInOrderTraversal\computeKthNodeInOrderTraversal\obj\Release\computeKthNodeInOrderTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKthNodeInOrderTraversal\computeKthNodeInOrderTraversal\bin\Release\computeKthNodeInOrderTraversal.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKthNodeInOrderTraversal\computeKthNodeInOrderTraversal\bin\Release\computeKthNodeInOrderTraversal.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKthNodeInOrderTraversal\computeKthNodeInOrderTraversal\obj\Release\computeKthNodeInOrderTraversal.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeKthNodeInOrderTraversal\computeKthNodeInOrderTraversal\obj\Release\computeKthNodeInOrderTraversal.pdb
