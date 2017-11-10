@@ -1,0 +1,11 @@
+c:\Users\Anup\documents\visual studio 2013\Projects\testCode\testCode\bin\Release\checkParity64BitWord.exe.config
+c:\Users\Anup\documents\visual studio 2013\Projects\testCode\testCode\bin\Release\checkParity64BitWord.exe
+c:\Users\Anup\documents\visual studio 2013\Projects\testCode\testCode\bin\Release\checkParity64BitWord.pdb
+c:\Users\Anup\documents\visual studio 2013\Projects\testCode\testCode\obj\Release\checkParity64BitWord.exe
+c:\Users\Anup\documents\visual studio 2013\Projects\testCode\testCode\obj\Release\checkParity64BitWord.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\checkParity64BitWord\testCode\bin\Release\checkParity64BitWord.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\checkParity64BitWord\testCode\bin\Release\checkParity64BitWord.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\checkParity64BitWord\testCode\bin\Release\checkParity64BitWord.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\checkParity64BitWord\testCode\obj\Release\checkParity64BitWord.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\checkParity64BitWord\testCode\obj\Release\checkParity64BitWord.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\checkParity64BitWord\testCode\obj\Release\checkParity64BitWord.pdb

@@ -1,0 +1,6 @@
+c:\users\anup\documents\visual studio 2013\Projects\testCode\testCode\bin\Release\testCode.exe.config
+c:\users\anup\documents\visual studio 2013\Projects\testCode\testCode\bin\Release\testCode.exe
+c:\users\anup\documents\visual studio 2013\Projects\testCode\testCode\bin\Release\testCode.pdb
+c:\users\anup\documents\visual studio 2013\Projects\testCode\testCode\obj\Release\testCode.csprojResolveAssemblyReference.cache
+c:\users\anup\documents\visual studio 2013\Projects\testCode\testCode\obj\Release\testCode.exe
+c:\users\anup\documents\visual studio 2013\Projects\testCode\testCode\obj\Release\testCode.pdb
