@@ -1,0 +1,6 @@
+c:\users\anup\documents\visual studio 2013\Projects\bitMultiplication\bitMultiplication\bin\Release\bitMultiplication.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\bitMultiplication\bitMultiplication\bin\Release\bitMultiplication.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\bitMultiplication\bitMultiplication\bin\Release\bitMultiplication.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\bitMultiplication\bitMultiplication\obj\Release\bitMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\bitMultiplication\bitMultiplication\obj\Release\bitMultiplication.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\bitMultiplication\bitMultiplication\obj\Release\bitMultiplication.pdb

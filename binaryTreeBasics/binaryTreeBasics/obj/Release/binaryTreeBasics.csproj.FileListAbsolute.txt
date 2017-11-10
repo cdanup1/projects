@@ -1,0 +1,6 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binaryTreeBasics\binaryTreeBasics\bin\Release\binaryTreeBasics.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binaryTreeBasics\binaryTreeBasics\bin\Release\binaryTreeBasics.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binaryTreeBasics\binaryTreeBasics\bin\Release\binaryTreeBasics.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binaryTreeBasics\binaryTreeBasics\obj\Release\binaryTreeBasics.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binaryTreeBasics\binaryTreeBasics\obj\Release\binaryTreeBasics.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binaryTreeBasics\binaryTreeBasics\obj\Release\binaryTreeBasics.pdb

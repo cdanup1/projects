@@ -1,0 +1,6 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binSearchComputeIntegerSquareRoot\binSearchComputeIntegerSquareRoot\bin\Debug\binSearchComputeIntegerSquareRoot.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binSearchComputeIntegerSquareRoot\binSearchComputeIntegerSquareRoot\bin\Debug\binSearchComputeIntegerSquareRoot.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binSearchComputeIntegerSquareRoot\binSearchComputeIntegerSquareRoot\bin\Debug\binSearchComputeIntegerSquareRoot.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binSearchComputeIntegerSquareRoot\binSearchComputeIntegerSquareRoot\obj\Debug\binSearchComputeIntegerSquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binSearchComputeIntegerSquareRoot\binSearchComputeIntegerSquareRoot\obj\Debug\binSearchComputeIntegerSquareRoot.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\binSearchComputeIntegerSquareRoot\binSearchComputeIntegerSquareRoot\obj\Debug\binSearchComputeIntegerSquareRoot.pdb
