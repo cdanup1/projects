@@ -1,0 +1,6 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-computeLCA\BST-computeLCA\bin\Release\BST-computeLCA.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-computeLCA\BST-computeLCA\bin\Release\BST-computeLCA.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-computeLCA\BST-computeLCA\bin\Release\BST-computeLCA.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-computeLCA\BST-computeLCA\obj\Release\BST-computeLCA.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-computeLCA\BST-computeLCA\obj\Release\BST-computeLCA.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-computeLCA\BST-computeLCA\obj\Release\BST-computeLCA.pdb

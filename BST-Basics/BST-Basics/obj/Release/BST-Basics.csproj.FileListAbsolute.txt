@@ -1,0 +1,6 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-Basics\BST-Basics\bin\Release\BST-Basics.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-Basics\BST-Basics\bin\Release\BST-Basics.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-Basics\BST-Basics\bin\Release\BST-Basics.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-Basics\BST-Basics\obj\Release\BST-Basics.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-Basics\BST-Basics\obj\Release\BST-Basics.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\BST-Basics\BST-Basics\obj\Release\BST-Basics.pdb
