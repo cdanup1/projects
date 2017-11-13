@@ -1,0 +1,6 @@
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeTheRunningMedian-Heaps\computeTheRunningMedian-Heaps\bin\Release\computeTheRunningMedian-Heaps.exe.config
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeTheRunningMedian-Heaps\computeTheRunningMedian-Heaps\bin\Release\computeTheRunningMedian-Heaps.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeTheRunningMedian-Heaps\computeTheRunningMedian-Heaps\bin\Release\computeTheRunningMedian-Heaps.pdb
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeTheRunningMedian-Heaps\computeTheRunningMedian-Heaps\obj\Release\computeTheRunningMedian-Heaps.csprojResolveAssemblyReference.cache
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeTheRunningMedian-Heaps\computeTheRunningMedian-Heaps\obj\Release\computeTheRunningMedian-Heaps.exe
+C:\Users\Anup\Documents\Visual Studio 2013\Projects\computeTheRunningMedian-Heaps\computeTheRunningMedian-Heaps\obj\Release\computeTheRunningMedian-Heaps.pdb
